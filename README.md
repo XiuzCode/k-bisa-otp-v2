@@ -7,7 +7,7 @@
 ```
 pkg install git python
 pip install requests
-git clone https://github.com/Maoundis/k-bisa-otp.git
+git clone https://github.com/Maoundis/k-bisa-otp-v2
 cd k-bisa-otp
 python kitabis.py
 
