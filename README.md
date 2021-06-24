@@ -1,7 +1,8 @@
 # k-bisa-otp
-* Spam otp kitabisa email or phone number
-![gambar](https://github.com/Maoundis/k-bisa-otp/blob/master/Screenshot_20191110-213809.jpg)
-![gambar2](https://github.com/Maoundis/k-bisa-otp/blob/master/Screenshot_20191110-213802.jpg)
+### screenshot
+![gambar](https://github.com/XiuzCode/k-bisa-otp-v2/blob/master/foto/Screenshot_20191110-213802.jpg)
+
+![gambar2](https://github.com/XiuzCode/k-bisa-otp-v2/blob/master/foto/Screenshot_20191110-213809.jpg)
 
 # instalasi
 ```
@@ -17,5 +18,4 @@ python kitabis.py
 * email for sopam email
 * wa for spam whatsapp
 
-# note delay 4 minute
-# KONTOOLL. !!!
+<br>note delay 4 minute</br>
