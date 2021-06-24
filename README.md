@@ -13,9 +13,10 @@ cd k-bisa-otp
 python kitabis.py
 
 ```
-# command type:
 
 * email for sopam email
 * wa for spam whatsapp
 
+#### powered by
+<img src="https://img.icons8.com/nolan/96/python.png"/>
 <br>note delay 4 minute</br>
